@@ -1,6 +1,0 @@
-name: my-socketio-app # Tên service của bạn
-env: # Thiết lập biến môi trường
-  - key: NODE_ENV
-    value: production
-buildCommand: npm install
-startCommand: npm start # Lệnh để start service của bạn
